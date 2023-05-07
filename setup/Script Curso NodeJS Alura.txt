@@ -1,0 +1,52 @@
+    Script Curso NodeJS - Alura
+
+1. Instalação do NodeJS para Windows
+
+
+
+
+
+
+    Setup para programar em NodeJS
+
+
+    Executando o código 
+
+    # Utilizando comando com node
+    node server.js 
+
+    # Comando npm 
+    npm run
+
+    # Comando npm em dev
+    npm run dev
+        |_ nodemon server.js
+
+    
+    Deploy do código após a prática
+
+Ao finalizar a prática da atividade: 
+
+    1. Realizar o commit dos arquivos no github
+    2. Fazer o clone da aplicação no servidor
+    
+    Resultado: Aplicação rodando e com as novas modificações
+
+Express
+
+1. Verificar a última versão do Express
+    a. acessar npmjs.com
+    b. pesquisar "express"
+Será exibido a última versão do pacote do express
+
+2. Realizar a instalação do express na última versão
+npm install express@xx.x.xx
+
+Code Session
+
+1. Adicionar ao arquivo package.json
+    "type":"module"
+2. Criar pasta src 
+3. Criar arquivo app.js
+
+
