@@ -1,12 +1,6 @@
     Script Curso NodeJS - Alura
 
 1. Instalação do NodeJS para Windows
-
-
-
-
-
-
     Setup para programar em NodeJS
 
 
@@ -49,4 +43,18 @@ Code Session
 2. Criar pasta src 
 3. Criar arquivo app.js
 
+
+4. Evoluindo a API 
+
+criar pasta controllers
+criar arquivo livrosController.js
+
+em livrosController.js
+
+1. import livros
+2. criar classe Livro
+3. export classe Livro
+
+criar pasta routes
+criar arquivo livrosRoutes.js
 
