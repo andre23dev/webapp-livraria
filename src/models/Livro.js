@@ -1,4 +1,4 @@
-import mongoose from "c"; 
+import mongoose from "mongoose"; 
 
 const livroSchema = new mongoose.Schema(
     {

@@ -1,21 +1,30 @@
-# web-applivraria
+# Web App Livraria
 
-# web-applivraria
+- App Livraria
 
-Node
+#### Informações
+- [Setup Node](#setup-node)
+- [Setup NPM](#setup-npm)
+- [Database](#database)
 
-# Verificar versão node
-node -v
 
-NPM
+## Setup Node
+WebSite NodeJS informações e documentação
+Windows: Baixar instalador no website nodejs
+    [adicionar link para download]
 
-# Iniciar o projeto a partir de um arquivo package.json com as dependências
-npm init -y
+## Setup NPM
 
-# Instalar as dependências a partir do arquivo package.json
-npm install dependencies
+Setup npm para instalação de pacotes. 
 
-Verificar como instalar todos os pacotes abaixo
+### Init NPM
+Inicia npm, -y aprova todas as alterações contido no arquivo package.json
+`npm init -y`
+
+### Instalar as dependências a partir do arquivo package.json
+`npm install dependencies`
+
+### Pacotes utilizados no projeto
 
 Instalar Node
 Instalar npm
@@ -26,22 +35,7 @@ Instalar moongose
 # Database
 ---
 
----
-
-# Github
-
-Obter já existente do github
-Realizar a conexão
-Clonar repositório
-Commit exemplo
-Push files
-Update files
-
-gerar chaves ssh
-https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
-
-
-# MongoDB Atlas
+## MongoDB Atlas
 
 https://www.mongodb.com/cloud/atlas/register
 
