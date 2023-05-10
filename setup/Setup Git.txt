@@ -1,0 +1,17 @@
+Setup Git
+
+git clone git@github.com:andre23dev/webapp-livraria.git
+cd /webapp-livraria
+git init
+git config user.email "endereço de e-mail"
+git config user.name "nome usuário"
+
+# Inicie ssh-agent
+eval "$(ssh-agent -s)"
+`> Agent pid 59566`
+
+# Adicione a chave privada ao ssh-agent
+`$ ssh-add ~/.ssh/<arquivo-chave-privada>`
+
+# Testar conexão ssh
+`ssh -T git@github.com`
