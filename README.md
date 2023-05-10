@@ -1,6 +1,7 @@
 #  Livraria
 
-App Livraria, gerencie sua biblioteca de livros.
+App Livraria, gerencie sua biblioteca de livros. Projeto criado a partir do curso API Node com Express na Alura.
+
 ---
 #### Informações
 - [Setup Node](#setup-node)
@@ -54,3 +55,4 @@ https://www.nodejs.com
 https://www.npmjs.com
 https://mongodb.com
 https://www.markdownguide.org/
+https://github.com/alura-cursos/2404-api-node-express
