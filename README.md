@@ -1,7 +1,7 @@
-# Web App Livraria
+#  Livraria
 
-- App Livraria
-
+App Livraria, gerencie sua biblioteca de livros.
+---
 #### Informações
 - [Setup Node](#setup-node)
 - [Setup NPM](#setup-npm)
@@ -18,8 +18,7 @@ Windows: Baixar instalador no website nodejs
 Setup npm para instalação de pacotes. 
 
 ### Init NPM
-Inicia npm, -y aprova todas as alterações contido no arquivo package.json
-`npm init -y`
+`npm init -y` inicia npm, -y aprova todas as alterações contido no arquivo package.json
 
 ### Instalar as dependências a partir do arquivo package.json
 `npm install dependencies`
@@ -48,3 +47,10 @@ https://www.mongodb.com/cloud/atlas/register
 
 cluster name:   cluster-webapp-livraria
 database name:  db-livraria
+
+# Referências
+
+https://www.nodejs.com
+https://www.npmjs.com
+https://mongodb.com
+https://www.markdownguide.org/
