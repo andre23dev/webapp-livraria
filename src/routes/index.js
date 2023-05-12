@@ -1,7 +1,7 @@
 import express from "express";
 import livros from "./livrosRoutes.js"
 
-const route = (app) => {
+const routes = (app) => {
     app.route("/").get((req, res) => {
         res.status(200).send({ titulo: "Curso de NodeJS e Express @Alura"})
     })
@@ -13,4 +13,4 @@ const route = (app) => {
 
 }
 
-export default route
+export default routes
