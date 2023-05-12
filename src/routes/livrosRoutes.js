@@ -6,5 +6,6 @@ const router = express.Router();
 router 
     .get("/livros", LivroController.listarLivros)
     .post("/livros", LivroController.adicionarLivro)
+    .put("/livros/:id", LivroController.atualizarLivro)
 
 export default router; 
