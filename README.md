@@ -1,4 +1,4 @@
-#  Livraria
+# Livraria
 
 App Livraria, gerencie sua biblioteca de livros. Projeto criado a partir do curso API Node com Express na Alura.
 
